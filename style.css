@@ -10,13 +10,13 @@
 :root {
   --lead: #212121;
   --Denim: #1560BD;
-  --eye-ball: #fffdf7;
+  --blue-hint: #F7FBFF;
   --hex-blue: #D5E9FE;
   --pure-white: #fff;
 }
 
 body {
-  background: var(--eye-ball);
+  background: var(--blue-hint);
 }
 
 /* BASIC STYLING */
@@ -319,7 +319,7 @@ h4 {
 }
 
 .cart-list .item:nth-child(even) {
-  background: var(--eye-ball);
+  background: var(--blue-hint);
 }
 
 .item .detail {
